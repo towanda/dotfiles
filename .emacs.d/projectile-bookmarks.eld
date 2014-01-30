@@ -1,0 +1,1 @@
+("~/Dropbox/dev/wuaki_background/" "~/Dropbox/dev/wuaki_common/" "~/.emacs.d/" "~/wuaki_web/")

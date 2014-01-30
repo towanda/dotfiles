@@ -1,0 +1,54 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/" . "manu/")
+ ("/" . "Users/")
+ ("/Users/manu/wuaki_web/app/" . "controllers/")
+ ("/Users/manu/wuaki_web/" . "app/")
+ ("/Users/manu/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/manu/.emacs.d/"
+ "/Users/manu/"
+ "/Users/manu/wuaki_web/app/controllers/"
+ "/Users/manu/wuaki_web/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ ".emacs-old"
+ "custom.el"
+ "prelude-modules.el"
+ "adult_confirmations_controller.rb"
+ "purchases_controller.rb"
+ "CHANGELOG.txt"
+ "Gemfile"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/manu/.emacs.d/" (21226 14291 0 0) "vendor/" "var/" "utils/" "themes/" "savefile/" "sample/" "README.md" "projectile-bookmarks.eld" "prelude-modules.el" "personal/" "modules/" "init.el" "elpa/" "custom.el" "core/" "CONTRIBUTING.md" "auto-save-list/" ".projectile" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/manu/" (21226 13224 0 0) "yankring_history_v2.txt" "wuaki_web/" "wuaki_devel.sql.old" "wuaki_devel.sql.gz" "wuaki_devel.sql" "wuaki_apiv2/" "VirtualBox VMs/" "vagrant/" "user_searcher_spec.rb" "tmp/" "tkn/" "test-magit/" "test/" "release/" "Public/" "prueba.sh" "pr/" "play_results1.csv" "play_results.csv" "Pictures/" "payments_status.csv" "payments_results.csv" "Music/" "Movies/" "Mail/" "log/" "Library/" "goog.csv" "emacs.d-old/" "emacs-old" "emacs-for-manu.tar" "dumps/" "dump.rdb" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "check_play_transaction_status.rb" "bin/" "backup_results/" ".zshrc.backup" ".zshrc" ".zshenv" ".zsh.prompts/" ".zsh.before/" ".zsh.after/" ".zprofile.backup" ".zprofile" ".zpreztorc" ".zprezto/" ".zlogout" ".zlogin" ".zhistory" ".zcompdump.zwc" ".zcompdump" ".yadr/" ".vimrc-mislav" ".vimrc" ".vimperator/" ".viminfo" ".vimchat/" ".vim-yadr/" ".vim/" ".vegas/" ".vagrant.d/" ".Trash/" ".tmux.conf.yaddr" ".tmux.conf.backup" ".tmux.conf" ".tmp" ".teamocil/" ".subversion/" ".ssh/" ".sh_history" ".ruby-version" ".rspec" ".roto" ".rnd" ".rediscli_history" ".redis-commander" ".recentf" ".rdebugrc" ".rdebug_hist" ".rbenv/" ".pryrc" ".npm/" ".mysql_history" ".muttrc" ".mutt/" ".mail/" ".MacOSX/" ".links/" ".lesshst" ".irbrc" ".irb_history" ".irb-history" ".inputrc" ".ido.last~" ".ido.last" ".htoprc" ".homebrew/" ".gvimrc" ".gitignore" ".gitconfig.backup" ".gitconfig" ".gemrc.backup" ".gemrc" ".gem/" ".fasd-init-bash" ".fasd" ".erlang.cookie" ".erc/" ".emacs~" ".emacs.old/" ".emacs.d-old/" ".emacs.d/" ".emacs-old" ".editrc" ".DS_Store" ".dropbox/" ".cups/" ".ctags" ".config/" ".CFUserTextEncoding" ".cache/" ".bundler/" ".bundle/" ".bashrc" ".bash_profile" ".bash_history" ".aprc" "../" "./")
+
+ ("/Users/" (20862 12914 0 0) "Shared/" "manu/" ".localized" "../" "./")
+
+ ("/Users/manu/.emacs.d/modules/" (21226 10888 0 0) "prelude-xml.el" "prelude-web.el" "prelude-scss.el" "prelude-scheme.el" "prelude-scala.el" "prelude-ruby.el" "prelude-python.el" "prelude-programming.el" "prelude-perl.el" "prelude-org.el" "prelude-mediawiki.el" "prelude-lisp.el" "prelude-latex.el" "prelude-key-chord.el" "prelude-js.el" "prelude-ido.el" "prelude-helm.el" "prelude-haskell.el" "prelude-erlang.el" "prelude-erc.el" "prelude-emacs-lisp.el" "prelude-css.el" "prelude-common-lisp.el" "prelude-coffee.el" "prelude-clojure.el" "prelude-c.el" "doc/" "../" "./")
+
+ ("/Users/manu/wuaki_web/lib/" (21186 47757 0 0) "wuaki_tv/" "warden/" "conviva.rb" "conviva/" "concern/" "../" "./")
+
+ ("/Users/manu/wuaki_web/lib/concern/" (21226 12620 0 0) "ratings.rb" "purchases.rb" "favorite.rb" "already_seen.rb" "../" "./")
+
+ ("/Users/manu/wuaki_web/app/controllers/" (21226 12412 0 0) "viki_controller.rb" "users_controller.rb" "tv_shows_controller.rb" "transactions_controller.rb" "terms_and_conditions_controller.rb" "subscriptions_controller.rb" "subscription_plans_controller.rb" "sessions_controller.rb" "seasons_controller.rb" "routing_error_controller.rb" "registrations_controller.rb" "purchases_controller.rb" "profiles_controller.rb" "price_policies_controller.rb" "people_controller.rb" "passwords_controller.rb" "pages_controller.rb" "movies_controller.rb" "international_restrictions_controller.rb" "help_controller.rb" "frontpage_controller.rb" "episodes_controller.rb" "coupons_controller.rb" "contents_controller.rb" "confirmations_controller.rb" "base_controller.rb" "application_controller.rb" "adult_confirmations_controller.rb" "../" "./")
+
+ ("/Users/manu/wuaki_web/app/" (21186 47757 0 0) "views/" "stylesheets/" "services/" "responders/" "presenters/" "models/" "helpers/" "controllers/" "../" "./")
+
+ ("/Users/manu/wuaki_web/" (21218 37367 0 0) "vendor/" "TODO.org" "tmp/" "temp-17962.rdb" "spec/" "script/" "schema.rb" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "config.ru" "config/" "CHANGELOG.txt" "app/" ".idea/" ".gitkeep" ".gitignore" ".git/" ".env.test" ".env.development" ".bundle/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
