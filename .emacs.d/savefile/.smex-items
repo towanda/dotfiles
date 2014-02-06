@@ -1,17 +1,26 @@
 
 ;; ----- smex-history -----
 (
- load-theme
  package-install
- cd
- 5x5
- ack
- arp
- dbx
+ er/expand-region
+ magit-blame-mode
+ comment-region
+ guru-mode
+ guru-global-mode
+ about-emacs
 )
 
 ;; ----- smex-data -----
 (
- (package-install . 1)
+ (package-install . 2)
  (load-theme . 1)
+ (display-time . 1)
+ (comment-indent-new-line . 1)
+ (comment-region . 4)
+ (query-replace . 3)
+ (guru-mode . 2)
+ (about-emacs . 1)
+ (guru-global-mode . 1)
+ (magit-blame-mode . 2)
+ (er/expand-region . 2)
 )

@@ -1,1 +1,1 @@
-("~/Dropbox/dev/wuaki_background/" "~/Dropbox/dev/wuaki_common/" "~/.emacs.d/" "~/wuaki_web/")
+("~/wuaki_web/" "~/wuaki_apiv2/" "~/wuaki/" "~/wuaki_common/" "~/dotfiles/" "~/Dropbox/dev/wuaki_common/" "~/Dropbox/dev/wuaki/" "~/Dropbox/dev/wuaki_deploys/" "~/wuaki_apiv2/vendor/bundle/bundler/gems/wuaki_common-0a5071138927/" "~/Dropbox/dev/wuaki_apiv2/vendor/bundle/bundler/gems/db-charmer-3c21695fd21e/" "~/Dropbox/dev/wuaki_apiv2/" "~/Dropbox/dev/wuaki_background/" "~/.emacs.d/")

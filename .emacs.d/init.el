@@ -118,32 +118,6 @@ by Prelude.")
   (message "Loading personal configuration files in %s..." prelude-personal-dir)
   (mapc 'load (directory-files prelude-personal-dir 't "^[^#].*el$")))
 
-(setq user-mail-address "manueltxo@gmail.com")
-(setq user-full-name "Manu Campos")
-
-(setq locale-coding-system 'utf-8)
-(set-terminal-coding-system 'utf-8)
-(set-keyboard-coding-system 'utf-8)
-(set-selection-coding-system 'utf-8)
-(prefer-coding-system 'utf-8)
-'(buffer-encoding (quote utf-8))
-'(recentf-mode t)
-'(transient-mark-mode t)
-(set-keyboard-coding-system nil)
-(setq make-backup-files nil)
-(menu-bar-mode -1)
-(tool-bar-mode -1)
-(scroll-bar-mode -1)
-(global-linum-mode 1)
-(column-number-mode 1)
-(setq linum-format "%4d  ")
-(disable-theme 'zenburn)
-(load-theme 'brin)
-
-(require 'ido-vertical-mode)
-(ido-mode 1)
-(ido-vertical-mode 1)
-
 (message "Prelude is ready to do thy bidding, Master %s!" current-user)
 
 (prelude-eval-after-init

@@ -2,6 +2,35 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/manu/.emacs.d/" . "personal/")
+ ("/Users/manu/dev/wuaki/spec/wuaki/contexts/" . "episodes/")
+ ("/Users/manu/dev/wuaki/spec/wuaki/" . "contexts/")
+ ("/Users/manu/dev/wuaki/spec/" . "wuaki/")
+ ("/Users/manu/wuaki_apiv2/spec/api/" . "episodes/")
+ ("/Users/manu/wuaki_apiv2/spec/" . "api/")
+ ("/Users/manu/dev/wuaki/lib/wuaki/contexts/" . "contents/")
+ ("/Users/manu/dev/wuaki/lib/wuaki/" . "contexts/")
+ ("/Users/manu/dev/wuaki/lib/" . "wuaki/")
+ ("/Users/manu/dev/wuaki/" . "lib/")
+ ("/Users/manu/dev/wuaki_common/app/" . "models/")
+ ("/Users/manu/dev/wuaki_common/" . "app/")
+ ("/Users/manu/wuaki_web/spec/" . "controllers/")
+ ("/Users/manu/Dropbox/dev/wuaki_common/app/" . "models/")
+ ("/Users/manu/Dropbox/dev/wuaki_common/lib/wuaki_common/application_controller/" . "helpers/")
+ ("/Users/manu/Dropbox/dev/wuaki_common/lib/wuaki_common/" . "application_controller/")
+ ("/Users/manu/Dropbox/dev/wuaki_common/lib/" . "wuaki_common/")
+ ("/Users/manu/Dropbox/dev/wuaki_common/spec/lib/wuaki_common/" . "application_controller/")
+ ("/Users/manu/Dropbox/dev/wuaki_common/spec/lib/" . "wuaki_common/")
+ ("/Users/manu/Dropbox/dev/wuaki_common/spec_faster/lib/" . "wuaki_common/")
+ ("/Users/manu/Dropbox/dev/wuaki_common/spec_faster/" . "lib/")
+ ("/Users/manu/Dropbox/dev/wuaki_common/spec/" . "lib/")
+ ("/Users/manu/Dropbox/dev/wuaki_common/" . "app/")
+ ("/Users/manu/Dropbox/dev/" . "wuaki_common/")
+ ("/Users/manu/wuaki_apiv2/config/" . "initializers/")
+ ("/Users/manu/wuaki_apiv2/lib/" . "tasks/")
+ ("/Users/manu/wuaki_apiv2/app/" . "controllers/")
+ ("/Users/manu/wuaki_apiv2/" . "spec/")
+ ("/Users/manu/dev/" . "wuaki_common/")
  ("/Users/" . "manu/")
  ("/" . "Users/")
  ("/Users/manu/wuaki_web/app/" . "controllers/")
@@ -11,29 +40,187 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/manu/.emacs.d/"
+ "/Users/manu/.emacs.d/personal/"
  "/Users/manu/"
- "/Users/manu/wuaki_web/app/controllers/"
+ "/Users/manu/dotfiles/.emacs.d/"
+ "/Users/manu/.emacs.d/"
+ "/Users/manu/Dropbox/dev/wuaki_common/"
+ "/Users/manu/dev/wuaki_common/"
+ "/Users/manu/wuaki_apiv2/"
  "/Users/manu/wuaki_web/"
+ "/Users/manu/dev/wuaki/lib/wuaki/contexts/contents/"
+ "/Users/manu/dev/wuaki_deploys/"
+ "/Users/manu/dev/wuaki/lib/wuaki/"
+ "/Users/manu/dev/wuaki/spec/wuaki/contexts/episodes/"
+ "/Users/manu/dev/wuaki/spec/wuaki/contexts/contents/"
+ "/Users/manu/dev/wuaki/spec/wuaki/"
+ "/Users/manu/wuaki_apiv2/spec/api/"
+ "/Users/manu/wuaki_apiv2/spec/api/episodes/"
+ "/Users/manu/wuaki_apiv2/app/controllers/"
+ "/Users/manu/dev/wuaki/"
+ "/Users/manu/wuaki_apiv2/lib/concern/"
+ "/Users/manu/dev/wuaki/lib/"
+ "/Users/manu/wuaki_web/app/controllers/"
+ "/Users/manu/wuaki_apiv2/spec/requests/seasons_controller/"
+ "/Users/manu/wuaki_web/spec/controllers/"
+ "/Users/manu/Dropbox/dev/wuaki_common/app/models/"
+ "/Users/manu/dev/wuaki_apiv2/"
+ "/Users/manu/dev/wuaki_common/app/models/"
+ "/Users/manu/Dropbox/dev/wuaki_common/lib/wuaki_common/application_controller/helpers/"
+ "/Users/manu/Dropbox/dev/wuaki_common/lib/"
+ "/Users/manu/Dropbox/dev/wuaki_common/spec/lib/wuaki_common/application_controller/"
+ "/Users/manu/wuaki_apiv2/config/initializers/"
+ "/Users/manu/wuaki_apiv2/config/"
+ "/Users/manu/wuaki_apiv2/lib/tasks/"
+ "/Users/manu/Documents/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "init.el"
- ".emacs-old"
  "custom.el"
+ ".emacs-old"
+ "init.el"
  "prelude-modules.el"
- "adult_confirmations_controller.rb"
- "purchases_controller.rb"
- "CHANGELOG.txt"
  "Gemfile"
+ "Gemfile.lock"
+ "favorite_context.rb"
+ "context.rb"
+ "context_response.rb"
+ "view_context_spec.rb"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/manu/.emacs.d/" (21226 14291 0 0) "vendor/" "var/" "utils/" "themes/" "savefile/" "sample/" "README.md" "projectile-bookmarks.eld" "prelude-modules.el" "personal/" "modules/" "init.el" "elpa/" "custom.el" "core/" "CONTRIBUTING.md" "auto-save-list/" ".projectile" ".gitignore" ".git/" "../" "./")
+ ("/Users/manu/.emacs.d/personal/" (21226 35010 0 0) "preload/" "custom.el" ".gitkeep" "../" "./")
 
- ("/Users/manu/" (21226 13224 0 0) "yankring_history_v2.txt" "wuaki_web/" "wuaki_devel.sql.old" "wuaki_devel.sql.gz" "wuaki_devel.sql" "wuaki_apiv2/" "VirtualBox VMs/" "vagrant/" "user_searcher_spec.rb" "tmp/" "tkn/" "test-magit/" "test/" "release/" "Public/" "prueba.sh" "pr/" "play_results1.csv" "play_results.csv" "Pictures/" "payments_status.csv" "payments_results.csv" "Music/" "Movies/" "Mail/" "log/" "Library/" "goog.csv" "emacs.d-old/" "emacs-old" "emacs-for-manu.tar" "dumps/" "dump.rdb" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "check_play_transaction_status.rb" "bin/" "backup_results/" ".zshrc.backup" ".zshrc" ".zshenv" ".zsh.prompts/" ".zsh.before/" ".zsh.after/" ".zprofile.backup" ".zprofile" ".zpreztorc" ".zprezto/" ".zlogout" ".zlogin" ".zhistory" ".zcompdump.zwc" ".zcompdump" ".yadr/" ".vimrc-mislav" ".vimrc" ".vimperator/" ".viminfo" ".vimchat/" ".vim-yadr/" ".vim/" ".vegas/" ".vagrant.d/" ".Trash/" ".tmux.conf.yaddr" ".tmux.conf.backup" ".tmux.conf" ".tmp" ".teamocil/" ".subversion/" ".ssh/" ".sh_history" ".ruby-version" ".rspec" ".roto" ".rnd" ".rediscli_history" ".redis-commander" ".recentf" ".rdebugrc" ".rdebug_hist" ".rbenv/" ".pryrc" ".npm/" ".mysql_history" ".muttrc" ".mutt/" ".mail/" ".MacOSX/" ".links/" ".lesshst" ".irbrc" ".irb_history" ".irb-history" ".inputrc" ".ido.last~" ".ido.last" ".htoprc" ".homebrew/" ".gvimrc" ".gitignore" ".gitconfig.backup" ".gitconfig" ".gemrc.backup" ".gemrc" ".gem/" ".fasd-init-bash" ".fasd" ".erlang.cookie" ".erc/" ".emacs~" ".emacs.old/" ".emacs.d-old/" ".emacs.d/" ".emacs-old" ".editrc" ".DS_Store" ".dropbox/" ".cups/" ".ctags" ".config/" ".CFUserTextEncoding" ".cache/" ".bundler/" ".bundle/" ".bashrc" ".bash_profile" ".bash_history" ".aprc" "../" "./")
+ ("/Users/manu/.emacs.d/" (21235 28577 0 0) "vendor/" "var/" "utils/" "themes/" "savefile/" "sample/" "README.md" "projectile-bookmarks.eld" "prelude-modules.el" "personal/" "modules/" "init.el" "elpa/" "core/" "CONTRIBUTING.md" "auto-save-list/" "../" "./")
+
+ ("/Users/manu/" (21235 28574 0 0) "yankring_history_v2.txt" "wuaki_web/" "wuaki_devel.sql.old" "wuaki_devel.sql.gz" "wuaki_devel.sql" "wuaki_common/" "wuaki_apiv2/" "wuaki/" "VirtualBox VMs/" "vagrant/" "user_searcher_spec.rb" "tmp/" "tkn/" "test-magit/" "test/" "release/" "Public/" "prueba.sh" "pr/" "play_results1.csv" "play_results.csv" "Pictures/" "payments_status.csv" "payments_results.csv" "Music/" "Movies/" "Mail/" "log/" "Library/" "goog.csv" "emacs.d-old/" "emacs-old" "emacs-for-manu.tar" "dumps/" "dump.rdb" "Dropbox/" "Downloads/" "dotfiles/" "Documents/" "dev/" "Desktop/" "check_play_transaction_status.rb" "bin/" "backup_results/" ".zshrc.backup" ".zshrc" ".zshenv" ".zsh.prompts/" ".zsh.before/" ".zsh.after/" ".zprofile.backup" ".zprofile" ".zpreztorc" ".zprezto/" ".zlogout" ".zlogin" ".zhistory" ".zcompdump.zwc" ".zcompdump" ".yadr/" ".vimrc-mislav" ".vimrc" ".vimperator/" ".viminfo" ".vimchat/" ".vim-yadr/" ".vim/" ".vegas/" ".vagrant.d/" ".Trash/" ".tmux.conf.yaddr" ".tmux.conf.backup" ".tmux.conf" ".tmp" ".teamocil/" ".subversion/" ".ssh/" ".sh_history" ".ruby-version" ".rspec" ".roto" ".rnd" ".rediscli_history" ".redis-commander" ".recentf" ".rdebugrc" ".rdebug_hist" ".rbenv/" ".pryrc" ".npm/" ".mysql_history" ".muttrc" ".mutt/" ".mail/" ".MacOSX/" ".links/" ".lesshst" ".irbrc" ".irb_history" ".irb-history" ".inputrc" ".ido.last~" ".ido.last" ".htoprc" ".homebrew/" ".gvimrc" ".gitignore" ".gitconfig.backup" ".gitconfig" ".gemrc.backup" ".gemrc" ".gem/" ".fasd-init-bash" ".fasd" ".erlang.cookie" ".erc/" ".emacs~" ".emacs.old/" ".emacs.d-old/" ".emacs.d/" ".emacs-old" ".editrc" ".DS_Store" ".dropbox/" ".cups/" ".ctags" ".config/" ".CFUserTextEncoding" ".cache/" ".bundler/" ".bundle/" ".bashrc" ".bash_profile" ".bash_history" ".aprc" "../" "./")
+
+ ("/Users/manu/dotfiles/.emacs.d/" (21235 28255 0 0) "vendor/" "var/" "utils/" "themes/" "savefile/" "sample/" "README.md" "projectile-bookmarks.eld" "prelude-modules.el" "personal/" "modules/" "init.el" "elpa/" "custom.el" "core/" "CONTRIBUTING.md" "auto-save-list/" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/" (21234 18028 0 0) "wuaki_common.gemspec" "VERSION" "vendor/" "TAGS" "spec_faster/" "spec/" "script/" "Rakefile" "pkg/" "lib/" "Gemfile.lock" "Gemfile" "db/" "config/" "CHANGELOG.txt" "app/" ".idea/" ".gitkeep" ".gitignore" ".git/" ".bundle/" "../" "./")
+
+ ("/Users/manu/dev/wuaki_common/" (21234 18028 0 0) "wuaki_common.gemspec" "VERSION" "vendor/" "TAGS" "spec_faster/" "spec/" "script/" "Rakefile" "pkg/" "lib/" "Gemfile.lock" "Gemfile" "db/" "config/" "CHANGELOG.txt" "app/" ".idea/" ".gitkeep" ".gitignore" ".git/" ".bundle/" "../" "./")
+
+ ("/Users/manu/dev/wuaki/spec/wuaki/contexts/contents/" (21235 25615 0 0) "unmark_as_seen_context_spec.rb" "unfavorite_context_spec.rb" "toggle_favorite_context_spec.rb" "rate_context_spec.rb" "mixed_list_context_spec.rb" "mark_as_seen_context_spec.rb" "favorite_context_spec.rb" "../" "./")
+
+ ("/Users/manu/wuaki_apiv2/" (21235 24869 0 0) "vendor/" "tmp/" "spec/" "script/" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "config.ru" "config/" "CHANGELOG.txt" "app/" ".idea/" ".gitkeep" ".gitignore" ".git/" ".env.test" ".env.development" ".bundle/" "../" "./")
+
+ ("/Users/manu/wuaki_web/" (21235 20116 0 0) "vendor/" "TODO.org" "tmp/" "temp-17962.rdb" "spec/" "script/" "schema.rb" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "config.ru" "config/" "CHANGELOG.txt" "app/" ".idea/" ".gitkeep" ".gitignore" ".git/" ".env.test" ".env.development" ".bundle/" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki/" (21235 20783 0 0) "wuaki.gemspec" "VERSION" "vendor/" "TODO.md" "spec/" "script/" "README.md" "Rakefile" "lib/" "Gemfile.lock" "Gemfile" "CHANGELOG.txt" ".ruby-version" ".idea/" ".gitignore" ".git/" ".bundle/" "../" "./")
+
+ ("/Users/manu/dev/wuaki/" (21235 20783 0 0) "wuaki.gemspec" "VERSION" "vendor/" "TODO.md" "spec/" "script/" "README.md" "Rakefile" "lib/" "Gemfile.lock" "Gemfile" "CHANGELOG.txt" ".ruby-version" ".idea/" ".gitignore" ".git/" ".bundle/" "../" "./")
+
+ ("/Users/manu/dev/wuaki/lib/wuaki/contexts/contents/" (21235 20805 0 0) "unmark_as_seen_context.rb" "unfavorite_context.rb" "toggle_favorite_context.rb" "toggle_already_seen_context.rb" "rate_context.rb" "purchases_context.rb" "mixed_list_context.rb" "mark_as_seen_context.rb" "list_favorites_context.rb" "favorite_context.rb" "../" "./")
+
+ ("/Users/manu/dev/wuaki_deploys/" (21189 10562 0 0) "vendor/" "templates/" "spec/" "recipes/" "README.md" "lib/" "Gemfile.lock" "Gemfile" "config/" "Capfile" "assets/" ".gitignore" ".git/" ".bundle/" "../" "./")
+
+ ("/Users/manu/dev/wuaki/spec/wuaki/contexts/episodes/" (21185 25539 0 0) "view_context_spec.rb" "list_context_spec.rb" "../" "./")
+
+ ("/Users/manu/dev/wuaki/spec/wuaki/contexts/" (20912 42656 0 0) "users/" "tv_shows/" "subscriptions/" "subscription_plans/" "seasons/" "pairings/" "movies/" "genres/" "episodes/" "credit_cards/" "contents/" "../" "./")
+
+ ("/Users/manu/dev/wuaki/spec/wuaki/" (21185 25539 0 0) "scopes/" "roles/" "role_identifier_spec.rb" "responders/" "mappers/" "mapper_spec.rb" "entities/" "dependency_manager_spec.rb" "contexts/" "context_spec.rb" "context_response_spec.rb" "../" "./")
+
+ ("/Users/manu/dev/wuaki/spec/" (20862 34495 0 0) "wuaki/" "support/" "spec_helper.rb" ".gitkeep" "../" "./")
+
+ ("/Users/manu/wuaki_apiv2/lib/concern/" (21234 10310 0 0) "rating.rb" "parameterizable_scopes.rb" "favorite.rb" "already_seen.rb" "../" "./")
+
+ ("/Users/manu/wuaki_apiv2/spec/api/episodes/" (21233 6193 0 0) "trailer_spec.rb" "rate_spec.rb" "parental_control_spec.rb" "favorites_spec.rb" "already_seen_spec.rb" "../" "./")
+
+ ("/Users/manu/wuaki_apiv2/spec/api/" (21233 6193 0 0) "yosemite/" "xbox/" "video_qualities_spec.rb" "users_spec.rb" "tv_shows_spec.rb" "subscriptions_spec.rb" "subscription_plans_spec.rb" "streams_spec.rb" "seasons_spec.rb" "seasons/" "purchases_spec.rb" "price_policies_controller_spec.rb" "movies_spec.rb" "movies/" "lists_spec.rb" "international_restrictions_spec.rb" "genres_spec.rb" "exceptions_spec.rb" "episodes_spec.rb" "episodes/" "device_pairings_spec.rb" "coupons_spec.rb" "classifications_spec.rb" "base_spec.rb" "banners_spec.rb" "audio_qualities_spec.rb" "../" "./")
+
+ ("/Users/manu/dev/wuaki/lib/wuaki/contexts/" (20912 42656 0 0) "users/" "tv_shows/" "subscriptions/" "subscription_plans/" "seasons/" "purchases/" "pairings/" "movies/" "genres/" "episodes/" "credit_cards/" "contents/" "../" "./")
+
+ ("/Users/manu/dev/wuaki/lib/wuaki/" (21185 25539 0 0) "searcher.rb" "scopes/" "roles/" "role_identifier.rb" "responders/" "publication_states.rb" "nil_data.rb" "memory_cache.rb" "mappers/" "mapper.rb" "entities/" "dependency_manager.rb" "data.rb" "contexts/" "context_response.rb" "context.rb" "../" "./")
+
+ ("/Users/manu/dev/wuaki/lib/" (21185 25539 0 0) "wuaki.rb" "wuaki/" "../" "./")
+
+ ("/Users/manu/wuaki_apiv2/app/controllers/" (21233 6193 0 0) "yosemite/" "xbox/" "video_qualities_controller.rb" "users_controller.rb" "tv_shows_controller.rb" "trailers_controller.rb" "subscriptions_controller.rb" "subscription_plans_controller.rb" "streams_controller.rb" "seasons_controller.rb" "purchases_controller.rb" "purchase_options_controller.rb" "price_policies_controller.rb" "people_controller.rb" "movies_controller.rb" "lists_controller.rb" "languages_controller.rb" "genres_controller.rb" "episodes_controller.rb" "device_types_controller.rb" "device_pairings_controller.rb" "coupon_redeems_controller.rb" "countries_controller.rb" "contents_controller.rb" "classifications_controller.rb" "base_controller.rb" "banners_controller.rb" "banner_pages_controller.rb" "audio_qualities_controller.rb" "application_controller.rb" "../" "./")
+
+ ("/Users/manu/wuaki_apiv2/app/contexts/" (21186 39314 0 0) "xbox/" "users/" "../" "./")
+
+ ("/Users/manu/wuaki_apiv2/app/responders/" (21186 39314 0 0) "users/" "user_mappings/" "tv_shows/" "subscriptions/" "subscription_plans/" "shared/" "seasons/" "movies/" "guides/" "genres/" "episodes/" "credit_cards/" "contents/" "application_responder.rb" "../" "./")
+
+ ("/Users/manu/wuaki_apiv2/app/responders/shared/" (21186 39314 0 0) "toggle_favorite_content_responder.rb" "toggle_already_seen_content_responder.rb" "rate_content_responder.rb" "favorites_content_responder.rb" "../" "./")
+
+ ("/Users/manu/wuaki_apiv2/spec/" (21205 26154 0 0) "support/" "spec_mini_helper.rb" "spec_helper.rb" "responders/" "requests/" "presenters/" "models/" "lib/" "helpers/" "contexts/" "certs/" "api/" "../" "./")
+
+ ("/Users/manu/wuaki_apiv2/spec/requests/" (21190 57109 0 0) "video_qualities_controller_spec.rb" "subscription_plans_controller_spec.rb" "streams_controller_spec.rb" "seasons_controller_spec.rb" "seasons_controller/" "purchases_controller_spec.rb" "movies_controller_spec.rb" "movies_controller/" "lists_controller/" "episodes_controller_spec.rb" "episodes_controller/" "device_pairing_controller_spec.rb" "countries_controller_spec.rb" "contents_controller_spec.rb" "classifications_controller_spec.rb" "audio_qualities_controller_spec.rb" "../" "./")
+
+ ("/Users/manu/wuaki_apiv2/spec/requests/seasons_controller/" (21186 39314 0 0) "parental_control_spec.rb" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/spec/dummy/db/" (21213 13215 0 0) "schema.rb" "migrate/" ".gitkeep" "../" "./")
+
+ ("/Users/manu/wuaki_web/app/controllers/" (21232 63059 0 0) "viki_controller.rb" "users_controller.rb" "tv_shows_controller.rb" "transactions_controller.rb" "terms_and_conditions_controller.rb" "subscriptions_controller.rb" "subscription_plans_controller.rb" "sessions_controller.rb" "seasons_controller.rb" "routing_error_controller.rb" "registrations_controller.rb" "purchases_controller.rb" "profiles_controller.rb" "price_policies_controller.rb" "people_controller.rb" "passwords_controller.rb" "pages_controller.rb" "movies_controller.rb" "international_restrictions_controller.rb" "help_controller.rb" "frontpage_controller.rb" "episodes_controller.rb" "coupons_controller.rb" "contents_controller.rb" "confirmations_controller.rb" "base_controller.rb" "application_controller.rb" "adult_confirmations_controller.rb" "../" "./")
+
+ ("/Users/manu/wuaki_web/spec/controllers/" (21231 49055 0 0) "users_controller_spec.rb" "tv_shows_controller/" "transactions_controller_spec.rb" "subscription_plans_controller_spec.rb" "sessions_controller_spec.rb" "seasons_controller_spec.rb" "registrations_controller_spec.rb" "purchases_controller_spec.rb" "profiles_controller_spec.rb" "price_policies_controller_spec.rb" "people_controller_spec.rb" "passwords_controller_spec.rb" "movies_controller_spec.rb" "movies_controller/" "frontpage_controller_spec.rb" "episodes_controller_spec.rb" "coupons_controller_spec.rb" "contents_controller_spec.rb" "confirmations_controller_spec.rb" "base_controller_spec.rb" "application_controller_spec.rb" "adult_confirmations_controller_spec.rb" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/app/models/" (21232 49221 0 0) "xbox/" "video_quality.rb" "user_service.rb" "user.rb" "tv_show.rb" "transaction.rb" "trailer.rb" "subscription_plans_content.rb" "subscription_plans_banner.rb" "subscription_plan.rb" "subscription_invoices_transaction.rb" "subscription_invoice.rb" "subscription.rb" "studio.rb" "stream.rb" "snapshot.rb" "service_base.rb" "season.rb" "score.rb" "related_product.rb" "related_external_key.rb" "rate.rb" "purchase_type.rb" "purchase_option.rb" "purchase.rb" "provider.rb" "profile_service.rb" "profile.rb" "pricing_template_detail.rb" "pricing_template.rb" "price_policy.rb" "pre_roll.rb" "person.rb" "pending_purchase.rb" "payment_gateway.rb" "payment_gateway/" "partner_user_map.rb" "parental_classification.rb" "movie.rb" "market_member.rb" "market.rb" "list_item.rb" "list_image.rb" "list_device_type.rb" "list.rb" "language.rb" "geolocation.rb" "geoblocking_rule.rb" "genre.rb" "favorite.rb" "fake_transaction.rb" "episode.rb" "drm_type.rb" "drm_license_hash.rb" "device_type.rb" "device_pairing.rb" "delayed_unsubscribe.rb" "credit_card_service.rb" "credit_card.rb" "coupon_redeem.rb" "coupon_campaigns_streamable.rb" "coupon_campaigns_device_type.rb" "coupon_campaign.rb" "coupon.rb" "country.rb" "conversion.rb" "content.rb" "communication_media.rb" "classification.rb" "cast.rb" "campaign_layout.rb" "campaign.rb" "billing_history.rb" "billing_address_service.rb" "billing_address.rb" "base_stream.rb" "banner_page.rb" "banner.rb" "awarding_person.rb" "awarding.rb" "award.rb" "audio_quality.rb" "already_seen.rb" "affiliate.rb" "../" "./")
+
+ ("/Users/manu/dev/wuaki_apiv2/" (21212 63340 0 0) "vendor/" "spec/" "script/" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "config.ru" "config/" "CHANGELOG.txt" "app/" ".gitkeep" ".gitignore" ".git/" ".env.test" ".env.development" ".bundle/" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/spec/lib/wuaki_common/application_controller/" (21231 50987 0 0) "international_restrictions_spec.rb" "current_market_setter_spec.rb" "context_request_spec.rb" "base_spec.rb" "../" "./")
+
+ ("/Users/manu/dev/wuaki_common/app/models/" (21231 27559 0 0) "xbox/" "video_quality.rb" "user_service.rb" "user.rb" "tv_show.rb" "transaction.rb" "trailer.rb" "subscription_plans_content.rb" "subscription_plans_banner.rb" "subscription_plan.rb" "subscription_invoices_transaction.rb" "subscription_invoice.rb" "subscription.rb" "studio.rb" "stream.rb" "snapshot.rb" "service_base.rb" "season.rb" "score.rb" "related_product.rb" "related_external_key.rb" "rate.rb" "purchase_type.rb" "purchase_option.rb" "purchase.rb" "provider.rb" "profile_service.rb" "profile.rb" "pricing_template_detail.rb" "pricing_template.rb" "price_policy.rb" "pre_roll.rb" "person.rb" "pending_purchase.rb" "payment_gateway.rb" "payment_gateway/" "partner_user_map.rb" "parental_classification.rb" "movie.rb" "market_member.rb" "market.rb" "list_item.rb" "list_image.rb" "list_device_type.rb" "list.rb" "language.rb" "geolocation.rb" "geoblocking_rule.rb" "genre.rb" "favorite.rb" "fake_transaction.rb" "episode.rb" "drm_type.rb" "drm_license_hash.rb" "device_type.rb" "device_pairing.rb" "delayed_unsubscribe.rb" "credit_card_service.rb" "credit_card.rb" "coupon_redeem.rb" "coupon_campaigns_streamable.rb" "coupon_campaigns_device_type.rb" "coupon_campaign.rb" "coupon.rb" "country.rb" "conversion.rb" "content.rb" "communication_media.rb" "classification.rb" "cast.rb" "campaign_layout.rb" "campaign.rb" "billing_history.rb" "billing_address_service.rb" "billing_address.rb" "base_stream.rb" "banner_page.rb" "banner.rb" "awarding_person.rb" "awarding.rb" "award.rb" "audio_quality.rb" "already_seen.rb" "affiliate.rb" "../" "./")
+
+ ("/Users/manu/dev/wuaki_common/app/" (21190 39949 0 0) "views/" "models/" "mailers/" "helpers/" "../" "./")
+
+ ("/Users/manu/wuaki_web/spec/" (21205 25698 0 0) "support/" "spec_helper.rb" "simple_spec_helper.rb" "services/" "routing/" "responders/" "requests/" "presenters/" "lib/" "helpers/" "features/" "controllers/" "assets/" "../" "./")
+
+ ("/Users/manu/dotfiles/" (21226 35234 0 0) ".tmux.conf" ".git/" ".emacs.d/" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/lib/wuaki_common/application_controller/helpers/" (21227 56950 0 0) "base.rb" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/app/" (21190 39949 0 0) "views/" "models/" "mailers/" "helpers/" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/lib/wuaki_common/spec_support/factories/" (21190 39949 0 0) "xbox/" "video_quality_factory.rb" "user_factory.rb" "tv_show_factory.rb" "transaction_factory.rb" "trailer_factory.rb" "subscription_plans_banner_factory.rb" "subscription_plan_factory.rb" "subscription_invoice_factory.rb" "subscription_factory.rb" "studio_factory.rb" "stream_factory.rb" "snapshot_factory.rb" "site_factory.rb" "season_factory.rb" "related_product_factory.rb" "purchase_type_factory.rb" "purchase_option_factory.rb" "purchase_factory.rb" "provider_factory.rb" "profile_factory.rb" "pricing_template_factory.rb" "pricing_template_detail_factory.rb" "price_policy_factory.rb" "pre_roll_factory.rb" "person_factory.rb" "pending_purchase.rb" "partner_user_map_factory.rb" "parental_classification_item_factory.rb" "parental_classification_factory.rb" "movie_factory.rb" "market_factory.rb" "list_image_factory.rb" "list_factory.rb" "language_factory.rb" "genre_factory.rb" "episode_factory.rb" "drm_types.rb" "drm_license_hashes.rb" "device_type_factory.rb" "device_pairing_factory.rb" "credit_card_factory.rb" "coupon_redeem_factory.rb" "coupon_factory.rb" "coupon_campaign_factory.rb" "country_factory.rb" "contest_factory.rb" "communication_media_factory.rb" "classification_factory.rb" "cast_factory.rb" "campaign_layout_factory.rb" "campaign_factory.rb" "billing_address_factory.rb" "banner_page_factory.rb" "banner_factory.rb" "awarding_factory.rb" "award_factory.rb" "audio_quality_factory.rb" "app_factory.rb" "affiliate_factory.rb" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/spec/lib/wuaki_common/" (21217 13307 0 0) "secure_serial_number_spec.rb" "queue_spec.rb" "queue/" "playback_settings_spec.rb" "middleware/" "external_id_spec.rb" "external_classification_spec.rb" "delayed_task_spec.rb" "csv_importer/" "assets_spec.rb" "application_controller/" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/spec/lib/" (21190 39949 0 0) "wuaki_common/" "cdn_provider/" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/spec/dummy/" (21190 54713 0 0) "spec/" "script/" "Rakefile" "public/" "log/" "db/" "config.ru" "config/" "app/" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/spec/assets/" (21217 13307 0 0) "wuaki_rsa-private.pem" "snapshot_placeholder.png" "Samsung-rsa-private.pem" "parental_classification.yml" "mini_banner_placeholder.png" "artwork_placeholder.png" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/spec_faster/lib/wuaki_common/" (21190 39949 0 0) "queue/" "gateway_spec.rb" "coupon_campaign_validator_spec.rb" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/spec_faster/lib/" (21190 39949 0 0) "yosemite/" "wuaki_common/" "services/" "orm_adapters/" "gem_ext/" "active_merchant/" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/spec_faster/" (21206 23499 0 0) "support/" "spec_helper.rb" "README.md" "models/" "lib/" "assets/" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/spec/support/" (21190 39949 0 0) "routes.rb" "http_mocks.rb" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/spec/" (21206 23499 0 0) "support/" "spec_helper.rb" "models/" "mocks/" "mailers/" "lib/" "dummy/" "assets/" "../" "./")
+
+ ("/Users/manu/wuaki_apiv2/config/initializers/" (21186 39314 0 0) "wuaki.rb" "session_store.rb" "secret_token.rb" "rails_ext.rb" "play.rb" "kaminari.rb" "errbit.rb" "devise.rb" "decorators.rb" "app.rb" "../" "./")
+
+ ("/Users/manu/wuaki_apiv2/config/" (21197 13653 0 0) "unicorn.rb" "services.yml" "routes.rb" "redis_cache.yml" "payments.yml" "newrelic.yml" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "cloudfront.yml" "cdn_provider.yml" "boot.rb" "application.rb" "../" "./")
+
+ ("/Users/manu/wuaki_apiv2/lib/tasks/" (21227 47077 0 0) "wuaki.rake" "../" "./")
+
+ ("/Users/manu/wuaki_apiv2/lib/" (21186 39314 0 0) "wuaki_apiv2/" "tasks/" "saml.rb" "saml/" "devise/" "concern/" "../" "./")
+
+ ("/Users/manu/wuaki_apiv2/app/" (21186 39314 0 0) "views/" "responders/" "presenters/" "models/" "helpers/" "controllers/" "contexts/" "../" "./")
+
+ ("/Users/manu/wuaki_web/config/" (21205 6677 0 0) "unicorn.rb" "services.yml" "scaffold.yml" "routes.rb" "redis_cache.yml" "payments.yml" "newrelic.yml" "locales/" "initializers/" "god/" "environments/" "environment.rb" "deploy/" "database.yml" "countries/" "conviva.yml" "compass.rb" "cloudfront.yml" "cdn_provider.yml" "boot.rb" "assets.yml" "application.rb" "../" "./")
+
+ ("/Users/manu/Dropbox/" (21207 52295 0 0) "user_searcher_spec.rb" "snippets/" "samu.org~" "samu.org" "rspec/" "Public/" "newrelic.yml" "Manu/" "Icon
+" "dotfiles/" "dev/" "confident-ruby/" "charla_susi/" "alfred/" ".DS_Store" ".dropbox.cache/" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/" (21206 44078 0 0) "zsh-simple/" "wuaki_web/" "wuaki_deploys/" "wuaki_common/" "wuaki_backoffice/" "wuaki_background/" "wuaki_apiv2/" "wuaki/" "writeroom-mode/" "TAGS" "swagger-ui/" "riak-box/" "rabbitmq-box/" "Procfile" "models/" "frac/" "dump.rdb" "docs/" "darkroom-mode/" "clojure-koans/" "cerberus/" ".ruby-version" ".DS_Store" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/lib/" (21222 16045 0 0) "yosemite/" "wuaki_common.rb" "wuaki_common/" "wuaki/" "services.rb" "services/" "paperclip_processors/" "orm_adapter/" "gem_ext/" "devise/" "active_merchant/" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/lib/wuaki_common/" (21218 19148 0 0) "spec_support.rb" "spec_support/" "seeder.rb" "secure_serial_number.rb" "railties/" "queue.rb" "queue/" "playback_settings.rb" "middleware/" "gateway.rb" "external_id.rb" "external_classification.rb" "environments.rb" "environments/" "devise/" "delayed_task.rb" "csv_importer/" "coupon_campaign_validator.rb" "coupon_campaign_validator/" "controller_scopes.rb" "concern/" "assets.rb" "application_controller/" "airbrake_delivery_worker.rb" "../" "./")
+
+ ("/Users/manu/Dropbox/dev/wuaki_common/lib/wuaki_common/application_controller/" (21190 39949 0 0) "user_agents.rb" "tracking_callbacks.rb" "terms_and_conditions.rb" "scopes.rb" "registrations.rb" "password_confirmation.rb" "page_title.rb" "international_restrictions.rb" "i18n.rb" "helpers/" "exception_handling/" "devise.rb" "current_market_setter.rb" "context_request.rb" "campaign.rb" "banners.rb" "adult_confirmation.rb" "../" "./")
+
+ ("/Users/manu/dev/" (21206 44078 0 0) "zsh-simple/" "wuaki_web/" "wuaki_deploys/" "wuaki_common/" "wuaki_backoffice/" "wuaki_background/" "wuaki_apiv2/" "wuaki/" "writeroom-mode/" "TAGS" "swagger-ui/" "riak-box/" "rabbitmq-box/" "Procfile" "models/" "frac/" "dump.rdb" "docs/" "darkroom-mode/" "clojure-koans/" "cerberus/" ".ruby-version" ".DS_Store" "../" "./")
+
+ ("/Users/manu/Documents/" (21226 23488 0 0) "rovers/" "raton.tiff" "purchase.txt" "play_reports.tar" "play_reports/" "nivel.tiff" "moda.tiff" "frac_deploys.org" "frac.org" "devuelme-mi-raton-ya.tiff" "csv_files.org~" "csv_files.org" "cerberus-split.org" "avatar.jpeg" "About Stacks.lpdf/" ".localized" ".DS_Store" "../" "./")
 
  ("/Users/" (20862 12914 0 0) "Shared/" "manu/" ".localized" "../" "./")
 
@@ -43,11 +230,7 @@
 
  ("/Users/manu/wuaki_web/lib/concern/" (21226 12620 0 0) "ratings.rb" "purchases.rb" "favorite.rb" "already_seen.rb" "../" "./")
 
- ("/Users/manu/wuaki_web/app/controllers/" (21226 12412 0 0) "viki_controller.rb" "users_controller.rb" "tv_shows_controller.rb" "transactions_controller.rb" "terms_and_conditions_controller.rb" "subscriptions_controller.rb" "subscription_plans_controller.rb" "sessions_controller.rb" "seasons_controller.rb" "routing_error_controller.rb" "registrations_controller.rb" "purchases_controller.rb" "profiles_controller.rb" "price_policies_controller.rb" "people_controller.rb" "passwords_controller.rb" "pages_controller.rb" "movies_controller.rb" "international_restrictions_controller.rb" "help_controller.rb" "frontpage_controller.rb" "episodes_controller.rb" "coupons_controller.rb" "contents_controller.rb" "confirmations_controller.rb" "base_controller.rb" "application_controller.rb" "adult_confirmations_controller.rb" "../" "./")
-
  ("/Users/manu/wuaki_web/app/" (21186 47757 0 0) "views/" "stylesheets/" "services/" "responders/" "presenters/" "models/" "helpers/" "controllers/" "../" "./")
-
- ("/Users/manu/wuaki_web/" (21218 37367 0 0) "vendor/" "TODO.org" "tmp/" "temp-17962.rdb" "spec/" "script/" "schema.rb" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "config.ru" "config/" "CHANGELOG.txt" "app/" ".idea/" ".gitkeep" ".gitignore" ".git/" ".env.test" ".env.development" ".bundle/" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----
