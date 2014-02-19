@@ -60,3 +60,6 @@
 (require 'bundler)
 
 (toggle-frame-fullscreen)
+
+(setq prelude-guru nil)
+(setq ns-use-srgb-colorspace t)
