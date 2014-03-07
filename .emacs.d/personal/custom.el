@@ -57,9 +57,20 @@
 (global-set-key "\C-c\C-c" 'comment-region)
 (global-set-key "\C-c\C-u" 'uncomment-region)
 
+
 (require 'bundler)
 
 (toggle-frame-fullscreen)
 
 (setq prelude-guru nil)
 (setq ns-use-srgb-colorspace t)
+
+(add-to-list 'load-path "~/emacs.d/vendor")
+(require 'rubocop)
+(add-hook 'ruby-mode-hook 'rubocop-mode)
+
+(defun open-jira-ticket ()
+  "Open a Jira ticket in browser"
+  (interactive)
+  (let((ticket-number (read-from-minibuffer "Jira ticket: ")))
+    (browse-url (concat "https://wuakitv.atlassian.net/browse/" ticket-number))))

@@ -1,26 +1,52 @@
 
 ;; ----- smex-history -----
 (
- package-install
- er/expand-region
- magit-blame-mode
+ help
+ help-mode
+ display-time
+ rubocop-autocorrect-current-file
  comment-region
- guru-mode
- guru-global-mode
- about-emacs
+ bundle-install
+ query-replace
 )
 
 ;; ----- smex-data -----
 (
- (package-install . 2)
+ (package-install . 5)
  (load-theme . 1)
- (display-time . 1)
+ (display-time . 2)
  (comment-indent-new-line . 1)
- (comment-region . 4)
- (query-replace . 3)
+ (comment-region . 7)
+ (query-replace . 12)
  (guru-mode . 2)
  (about-emacs . 1)
  (guru-global-mode . 1)
- (magit-blame-mode . 2)
+ (magit-blame-mode . 17)
  (er/expand-region . 2)
+ (whitespace-mode . 2)
+ (whitespace-cleanup . 1)
+ (magit-branch-manager . 1)
+ (rubocop-check-current-file . 2)
+ (rubocop-autocorrect-current-file . 19)
+ (uncomment-region . 1)
+ (list-packages . 2)
+ (ruby-test-mode . 3)
+ (ruby-test-run . 1)
+ (rubocop-autocorrect-directory . 1)
+ (ruby-load-file . 1)
+ (fringe-mode . 2)
+ (bundle-install . 11)
+ (prelude-create-scratch-buffer . 2)
+ (emacs-lisp-mode . 1)
+ (bundle-open . 2)
+ (package-list-packages . 1)
+ (robe-start . 2)
+ (inf-ruby-console-auto . 1)
+ (inf-ruby-console-gem . 1)
+ (rbenv-use . 1)
+ (hanoi-unix . 1)
+ (butterfly . 1)
+ (snake . 1)
+ (help-mode . 1)
+ (help . 1)
 )
